@@ -1,0 +1,16 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/stratify/integrations
+- https://n8n.io/integrations/stratify/
+- https://composio.dev/toolkits/stratify
+- https://monid.ai/tools/stratify
+checked:
+- https://composio.dev/toolkits/stratify
+- https://monid.ai/tools/stratify
+- https://n8n.io/integrations/stratify/
+- https://zapier.com/apps/stratify/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
